@@ -1,0 +1,5 @@
+.angular/
+.vscode/
+node_modules/
+enviornment.ts/
+appsettings.json/
