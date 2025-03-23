@@ -1,0 +1,338 @@
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.csproj.AssemblyReference.cache
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.AssemblyInfoInputs.cache
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.AssemblyInfo.cs
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.csproj.CoreCompileInputs.cache
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.MvcApplicationPartsAssemblyInfo.cs
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.MvcApplicationPartsAssemblyInfo.cache
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\appsettings.Development.json
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\appsettings.json
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.exe
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.deps.json
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.runtimeconfig.json
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.pdb
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Azure.Core.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Azure.Identity.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Humanizer.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.ClientModel.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.CodeDom.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Memory.Data.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Text.Json.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\codesignal\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\staticwebassets.build.json
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\staticwebassets.development.json
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeApis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeApis.props
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeApis.props
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeApis.props
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\staticwebassets.pack.json
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\scopedcss\bundle\EmployeeApis.styles.css
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\Employee.83769B8A.Up2Date
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.dll
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\refint\EmployeeApis.dll
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.pdb
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.genruntimeconfig.cache
+C:\codesignal\test\EmployeeApis\obj\Debug\net8.0\ref\EmployeeApis.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\appsettings.Development.json
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\appsettings.json
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.exe
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.deps.json
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.runtimeconfig.json
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\EmployeeApis.pdb
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Azure.Core.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Azure.Identity.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Humanizer.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.ClientModel.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.CodeDom.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Memory.Data.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Text.Json.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\my projs on github\test\EmployeeApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.csproj.AssemblyReference.cache
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.AssemblyInfoInputs.cache
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.AssemblyInfo.cs
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.csproj.CoreCompileInputs.cache
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.MvcApplicationPartsAssemblyInfo.cs
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.MvcApplicationPartsAssemblyInfo.cache
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\staticwebassets.build.json
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\staticwebassets.development.json
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeApis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeApis.props
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeApis.props
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeApis.props
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\staticwebassets.pack.json
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\scopedcss\bundle\EmployeeApis.styles.css
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\Employee.83769B8A.Up2Date
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.dll
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\refint\EmployeeApis.dll
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.pdb
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\EmployeeApis.genruntimeconfig.cache
+C:\my projs on github\test\EmployeeApis\obj\Debug\net8.0\ref\EmployeeApis.dll
